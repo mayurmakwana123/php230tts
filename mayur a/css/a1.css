@@ -1,0 +1,87 @@
+body
+{
+    padding: 40 px;
+    border : solid;
+    height: auto;
+    margin: 90px;
+    
+}
+div
+{
+background-color:(blue);
+margin: 5%;
+height: auto;
+padding: 0%;
+}
+input
+{
+    width: 30%;
+    height: auto;
+    padding: 1%;
+    margin:4px;
+    
+    
+}
+
+.name
+{
+    padding: 1%;
+    margin: 3px;
+    background-color:pink;
+    border: 2px solid black;
+}
+.EMAIL
+{
+    padding: 1%;
+    margin: 3px;
+    background-color: pink;
+    border: 2px solid black;
+}
+.phone
+{
+    padding: 1%;
+    margin: 3px;
+    background-color: pink;
+    border: 2px solid black;
+}
+
+
+.ADDRESS
+{
+    padding: 1%;
+    margin: 3px;
+    background-color: pink;
+    border: 2px solid black;
+}
+.postcode
+{
+    padding: 1%;
+    margin: 3px;
+    background-color:pink;
+    border: 2px solid black;
+}
+.COUNTRY
+{
+    padding: 1%;
+    margin: 3px;
+    background-color: pink;
+    border: 2px solid black;
+}
+.ctype,.cnumb,.scode,.ncard
+{
+    padding: 1%;
+    margin: 3px;
+    background-color: pink;
+    border: 2px solid black;   
+}
+button
+{
+    
+    color: yellow;
+    background-color:red;
+    margin-left: 40%;
+    margin-top: 5%;
+    padding: 1%;
+    border: 2px solid white;
+    width: 20%;
+}
